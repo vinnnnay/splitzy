@@ -4,6 +4,8 @@ Splitzy is a modern expense-splitting app built with [Next.js](w), [Convex](w) (
 
 ---
 
+----DEPLOYED LINK : https://splitzy-nu.vercel.app/
+
 ## 🚀 Tech Stack
 
 - **Frontend**: Next.js
